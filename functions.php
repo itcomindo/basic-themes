@@ -53,6 +53,10 @@ include get_template_directory() . '/ads/ads.php';
 // include css
 include get_template_directory() . '/css/css.php';
 
+// include cores
+include get_template_directory() . '/cores/cores.php';
+
+
 // include js
 include get_template_directory() . '/js/js.php';
 
